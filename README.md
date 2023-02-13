@@ -1,7 +1,7 @@
 # Real-Time Detection for Autonomous Vehicles on Low Power Devices 
 
 ## Summary:
-This project implemented an autonomous driving object detector using [YOLOv7](https://github.com/WongKinYiu/yolov7) and the [Udacity](https://public.roboflow.com/object-detection/self-driving-car) dataset. The model was converted to [Core ML](https://developer.apple.com/documentation/coreml) after training and inference was ran on an iPhone 13 Pro.
+This project implemented an autonomous driving object detector using [YOLOv7](https://github.com/WongKinYiu/yolov7) with the [Udacity](https://public.roboflow.com/object-detection/self-driving-car) and BDD100k dataset. The model was converted to [Core ML](https://developer.apple.com/documentation/coreml) after training and inference was ran on an iPhone 13 Pro.
 
 ## Included:
   - [iOS App](app)
