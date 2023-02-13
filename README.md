@@ -6,6 +6,8 @@ This project implemented an autonomous driving object detector using [YOLOv7](ht
 ## Included:
   - [iOS App](app)
   - [Core ML and PyTorch models](models)
+  - [Object Detection Training](ObjectDetection)
+  - [Instance Segmentation Training](InstanceSegmentation)
 
 ## Results:
 ![Single Image Inference](documentation/images/test1.PNG "Single Image Inference")
